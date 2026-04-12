@@ -1,4 +1,4 @@
-# WhatsApp协议
+# WhatsApp协议 支持五段、六段、扫码、设备码登录。 IOS、安卓、WEB 协议
 
 #### 介绍
 本协议是基于安卓、IOS、WEB、WhatsApp开发、已持续更新稳定使用7年。如果列出接口没有你想要的,我们团队支持定制WhatsAPP的任何功能,只要WhatsAPP
